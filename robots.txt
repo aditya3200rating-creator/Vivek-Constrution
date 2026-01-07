@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: file:///C:/Users/X%20PC%20USER/Desktop/VCL/index.html/sitemap.xml
